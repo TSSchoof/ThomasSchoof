@@ -9,7 +9,7 @@
 -nologo
 "C:\Projects\ThomasSchoof\src\ThomasSchoof\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
 -out:"C:\Projects\ThomasSchoof\src\ThomasSchoof\bin\Debug\netcoreapp1.0\ThomasSchoof.dll"
--r:"C:\Users\Schoof\.nuget\packages\BundlerMinifier.Core\2.1.258\lib\netcoreapp1.0\dotnet-bundle.dll"
+-r:"C:\Users\Schoof\.nuget\packages\BundlerMinifier.Core\2.2.281\lib\netcoreapp1.0\dotnet-bundle.dll"
 -r:"C:\Users\Schoof\.nuget\packages\Microsoft.AspNetCore.Antiforgery\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Antiforgery.dll"
 -r:"C:\Users\Schoof\.nuget\packages\Microsoft.AspNetCore.Authorization\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Authorization.dll"
 -r:"C:\Users\Schoof\.nuget\packages\Microsoft.AspNetCore.Cors\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Cors.dll"

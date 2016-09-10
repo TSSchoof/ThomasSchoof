@@ -3,7 +3,7 @@
   "version": 2,
   "targets": {
     ".NETCoreApp,Version=v1.0": {
-      "BundlerMinifier.Core/2.1.258": {
+      "BundlerMinifier.Core/2.2.281": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.App": "1.0.0",
@@ -3835,12 +3835,12 @@
     }
   },
   "libraries": {
-    "BundlerMinifier.Core/2.1.258": {
-      "sha512": "dHTcSnKRM2Dvk1s2eCLU8U1WCxLlfk4y0GQlBUFaHaLt1NN1JhxJeDhhVo6jqKhHZsBaY7Cz04UYuKrKSwItZQ==",
+    "BundlerMinifier.Core/2.2.281": {
+      "sha512": "cUiOJT4rjubD9tOsLo0ruPqfLEy5GUByj9JZ2fVlU5uR4QYTIN//BpeQfsmBwIU/GWrpVJqYsyX474Bm0U3XHQ==",
       "type": "package",
-      "path": "BundlerMinifier.Core/2.1.258",
+      "path": "BundlerMinifier.Core/2.2.281",
       "files": [
-        "BundlerMinifier.Core.2.1.258.nupkg.sha512",
+        "BundlerMinifier.Core.2.2.281.nupkg.sha512",
         "BundlerMinifier.Core.nuspec",
         "lib/net452/dotnet-bundle.exe",
         "lib/netcoreapp1.0/dotnet-bundle.dll",
@@ -9932,7 +9932,7 @@
   },
   "projectFileDependencyGroups": {
     "": [
-      "BundlerMinifier.Core >= 2.1.258",
+      "BundlerMinifier.Core >= 2.2.281",
       "Microsoft.AspNetCore.Diagnostics >= 1.0.0",
       "Microsoft.AspNetCore.Mvc >= 1.0.0",
       "Microsoft.AspNetCore.Razor.Tools >= 1.0.0-preview2-final",

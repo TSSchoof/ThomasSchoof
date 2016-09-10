@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.0",
-    "signature": "7db813570f407ce3e2b5adb48b794fd3ce75c454"
+    "signature": "941685a3914abc0ac62485eabaec8fe2cbf47292"
   },
   "compilationOptions": {
     "defines": [
@@ -29,7 +29,7 @@
           "Microsoft.Extensions.Logging.Debug": "1.0.0",
           "Microsoft.Extensions.Options.ConfigurationExtensions": "1.0.0",
           "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0",
-          "BundlerMinifier.Core": "2.1.258"
+          "BundlerMinifier.Core": "2.2.281"
         },
         "runtime": {
           "ThomasSchoof.dll": {}
@@ -38,7 +38,7 @@
           "ThomasSchoof.dll": {}
         }
       },
-      "BundlerMinifier.Core/2.1.258": {
+      "BundlerMinifier.Core/2.2.281": {
         "dependencies": {
           "Microsoft.NETCore.App": "1.0.0",
           "NUglify": "1.5.1",
@@ -3230,10 +3230,10 @@
       "serviceable": false,
       "sha512": ""
     },
-    "BundlerMinifier.Core/2.1.258": {
+    "BundlerMinifier.Core/2.2.281": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-dHTcSnKRM2Dvk1s2eCLU8U1WCxLlfk4y0GQlBUFaHaLt1NN1JhxJeDhhVo6jqKhHZsBaY7Cz04UYuKrKSwItZQ=="
+      "sha512": "sha512-cUiOJT4rjubD9tOsLo0ruPqfLEy5GUByj9JZ2fVlU5uR4QYTIN//BpeQfsmBwIU/GWrpVJqYsyX474Bm0U3XHQ=="
     },
     "Microsoft.AspNetCore.Antiforgery/1.0.0": {
       "type": "package",
